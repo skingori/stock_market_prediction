@@ -7,7 +7,7 @@ This will help you install and be able to run the system:
 Remember:
 * On the side of the Rstudio panel select plots
 ![Stock Predict](/stock.png)
-![Alt Text]("fig 1")
+
 * Life is short
 * R is the future of machine Learning
 
