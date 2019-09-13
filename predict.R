@@ -67,6 +67,7 @@ getData = function(online)
   
   #Arrange data chronologically
   data = data[order(data['Date'],decreasing = FALSE),]
+  data = data[order(data['Date']),]
   #Setting rownames to null resets the numbering of rows
   rownames(data) = NULL
   return(na.omit(data))
